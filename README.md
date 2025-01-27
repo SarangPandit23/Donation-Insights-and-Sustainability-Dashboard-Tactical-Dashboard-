@@ -10,3 +10,4 @@ Key Features and KPIs
 •	Filters for Year, Donation Source, and Product Category.
 •	Comparison tools for quarterly trends and product contributions.
 
+![Screenshot 2024-12-04 121039](https://github.com/user-attachments/assets/1cb96743-8700-4b5d-a459-b3b53ae72397)
